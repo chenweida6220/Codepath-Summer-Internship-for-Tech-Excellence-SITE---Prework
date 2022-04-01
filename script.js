@@ -21,7 +21,7 @@ function startGame() {
     playClueSequence();
 }
 
-function endGame() {
+function stopGame() {
     gamePlaying = false;
     document.getElementById("startBtn").classList.remove("hidden");
     document.getElementById("stopBtn").classList.add("hidden");
