@@ -6,9 +6,9 @@ Submitted by: **Wei Da Chen**
 
 Time spent: **10** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/enormous-cooperative-digestion)__
-                 (https://enormous-cooperative-digestion.glitch.me)
-                 (https://replit.com/join/sdtnjyrxux-chenweida6220)
+Link to project: (https://glitch.com/edit/#!/enormous-cooperative-digestion)    <br/>
+                 (https://enormous-cooperative-digestion.glitch.me)             <br/>
+                 (https://replit.com/join/sdtnjyrxux-chenweida6220)             <br/>
 
 ## Required Functionality
 
