@@ -1,7 +1,7 @@
 body {
   font-family: helvetica, ariel, sans-serif;
   margin: 2m;
-  background-color: slategray;
+  background-color: grey;
   color: white;
 }
 
@@ -12,6 +12,7 @@ h1 {
 button {
   padding: 10px;
   border-radius: 10px;
+  border-radius: 50%; 
 }
 
 /* target all four of the game buttons (but not the Start and Stop buttons): */
